@@ -9,3 +9,6 @@ Content-Type: application/json
 }
 
 ###新增课程接口
+
+GET http://{{content_host}}/content/teachplan/117/tree-nodes
+Content-Type: application/json
